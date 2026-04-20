@@ -7,13 +7,13 @@ This repository provides a "one-click" installer to connect [OpenCode](https://o
 ### Windows (PowerShell)
 Run this in your PowerShell terminal:
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_USERNAME/opencode-antigravity-kit/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/muhrifqie/opengravity/master/install.ps1 | iex
 ```
 
 ### macOS / Linux (Bash)
 Run this in your terminal:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/opencode-antigravity-kit/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/muhrifqie/opengravity/master/install.sh | bash
 ```
 
 ## Post-Installation
